@@ -26,7 +26,7 @@ with open("git.txt","r") as f1:
         word=i.split()
         num += len(word)
 print("The number of words are in the file is ",num)
-
+```
 ## OUTPUT:
 ![wordcount](https://user-images.githubusercontent.com/121215739/214851776-abc0d61f-02bd-4f40-9dad-81e4cad8f0f7.png)
 
