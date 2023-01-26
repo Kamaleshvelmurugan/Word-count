@@ -28,11 +28,7 @@ with open("git.txt","r") as f1:
 print("The number of words are in the file is ",num)
 
 ### OUTPUT:
-
-![word_count](https://user-images.githubusercontent.com/121215739/214850719-db19fc9c-fadf-485e-bcf3-8572d74e18be.png)
-
-
-
+![wordcount](https://user-images.githubusercontent.com/121215739/214850929-3bc4ae11-5fc8-48bc-82fc-1d022a180b9a.png)
 
 
 ## RESULT:
