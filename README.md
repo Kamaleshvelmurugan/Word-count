@@ -28,8 +28,7 @@ with open("git.txt","r") as f1:
 print("The number of words are in the file is ",num)
 
 ## OUTPUT:
-![wordcount](https://user-images.githubusercontent.com/121215739/214850929-3bc4ae11-5fc8-48bc-82fc-1d022a180b9a.png)
-
+![wordcount](https://user-images.githubusercontent.com/121215739/214851776-abc0d61f-02bd-4f40-9dad-81e4cad8f0f7.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
